@@ -14,11 +14,9 @@ namespace petlaWhile2
         static void Main(string[] args)
         {
             
-            int s = 0;
-            int z = 0;
+            int s = 0, z = 0, a = 0;
             int w = System.Convert.ToInt32(Console.ReadLine());
-            int a = 0;
-
+            
             while (a != w)
             {
                 a++;
