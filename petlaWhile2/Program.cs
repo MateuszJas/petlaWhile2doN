@@ -28,12 +28,9 @@ namespace petlaWhile2
                 s = (z + 1) + s;
 
                 z++;
-
-                
+                                
             }
             Console.WriteLine("Suma = " + s);
-
-
             Console.ReadKey();
         }
     }
