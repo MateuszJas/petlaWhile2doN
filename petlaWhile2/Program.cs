@@ -21,7 +21,7 @@ namespace petlaWhile2
             {
                 a++;
 
-                Console.WriteLine("a= {0}  s= {1}", a, s);
+                Console.WriteLine("a= {0} \t s= {1}", a, s);
 
                 s = (z + 1) + s;
 
